@@ -1,0 +1,36 @@
+{
+    "manifest": {
+        "author": "Xilzy",
+        "name": "Xilzy-THEME-V1.1",
+        "version": "1.1",
+        "license": "MIT",
+        "updater": "https://raw.githubusercontent.com/YourGitHubRepo/main/themes/Xilzy-THEME-V1.1.json"
+    },
+    "background": {
+        "image": "https://i.imgur.com/dmNO8P8.jpeg",
+        "over_alpha": 1.0,
+        "blur_radius": 6
+    },
+    "fonts": {
+        "whitney": "https://github.com/kartoflu/everblush/raw/main/fonts/Cabin-Medium.ttf"
+    },
+    "simple_colors": {
+        "mention_highlight": 1066192766,
+        "statusbar": -14933210
+    },
+    "colors": {
+        "primary_dark_600": -15459554,
+        "primary_dark_630": -14933210,
+        "primary_dark_700": -15459554,
+        "primary_dark_800": -15459554,
+        "primary_dark_200": -3288629,
+        "primary_dark_300": -7549058,
+        "primary_dark_400": -8681073
+    },
+    "drawable_tints": {
+        "ic_sidebar_search_24dp": -7549058,
+        "ic_channel_text": -7549058,
+        "ic_settings_white_a60_24dp": -7549058
+    },
+    "raws": {}
+}
